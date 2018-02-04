@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+<appData>
+  <title>Space Invaders</title>
+  <windows>
+    <window title ="Space Invaders" width="640" height="800" xPos="20" yPos="300"/>
+  </windows>
+  
+</appData>
